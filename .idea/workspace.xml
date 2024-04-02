@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d61d8b9-fe74-4214-b603-ae5e89f888c5" name="Changes" comment="">
+    <list default="true" id="7d61d8b9-fe74-4214-b603-ae5e89f888c5" name="Changes" comment="update twwice">
+      <change afterPath="$PROJECT_DIR$/src/Execrise9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +50,18 @@
       <option name="presentableId" value="Default" />
       <updated>1710854109693</updated>
     </task>
+    <task id="LOCAL-00001" summary="update twwice">
+      <created>1711883609209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711883609209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update twwice" />
+    <option name="LAST_COMMIT_MESSAGE" value="update twwice" />
   </component>
 </project>
