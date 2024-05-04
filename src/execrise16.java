@@ -9,8 +9,8 @@
 public class execrise16 {
     public static void main(String[] args) {
         int num1 = 12;
-        int num2 = 25;
-        int num3 = 52;
+        int num2 = 5;
+        int num3 = 2;
         int greatest = num1; // Assume num1 is the greatest initially
         if (num2 > greatest) {
             greatest = num2;

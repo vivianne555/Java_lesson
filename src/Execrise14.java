@@ -11,7 +11,7 @@
 //        Output: 11 is an odd number
 public class Execrise14 {
         public static void main(String[] args) {
-            int number1 = 10; // Input number
+            int number1 = 10;
 
             if (number1 % 2 == 0) {
                 System.out.println(number1 + " là số chẵn ");
