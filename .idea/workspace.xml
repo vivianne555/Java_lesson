@@ -4,17 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d61d8b9-fe74-4214-b603-ae5e89f888c5" name="Changes" comment="update twwice">
-      <change afterPath="$PROJECT_DIR$/src/Execrise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Execrise13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Execrise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Execrise15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Execrise17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/execrise12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/execrise16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7d61d8b9-fe74-4214-b603-ae5e89f888c5" name="Changes" comment="update third">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execrise18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execrise19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execrise20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execrise21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execrise23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/GiaiThua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/SOTUNHIEN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/TamGiacCan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/VuongCan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/VuongDangSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/bangcuchuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/hinhchunhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/execrise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/HinhChuNhatDuongCheo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/HinhChuNhatRong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/HinhVuongRong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopAdvance0001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopAdvance0002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopAdvance0004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopAdvance01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopAvance003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopFor01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopFor02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopFor03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LopEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/PractiseTGV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/TamGiac01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/TamGiacVuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/TamGiacVuongCan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Execrise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execrise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execrise14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execrise14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execrise16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/execrise16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +57,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,13 +79,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Execrise17">
+  <component name="RunManager">
     <configuration name="Execrise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Execrise13" />
       <module name="Java_lesson" />
@@ -60,41 +94,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Execrise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Execrise14" />
+    <configuration name="Execrise19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execrise19" />
       <module name="Java_lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Execrise15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Execrise15" />
+    <configuration name="Execrise20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execrise20" />
       <module name="Java_lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Execrise17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Execrise17" />
+    <configuration name="Execrise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execrise21" />
       <module name="Java_lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="execrise16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="execrise16" />
+    <configuration name="TamGiacVuong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.TamGiacVuong" />
       <module name="Java_lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Execrise17" />
-        <item itemvalue="Application.execrise16" />
-        <item itemvalue="Application.Execrise15" />
+        <item itemvalue="Application.TamGiacVuong" />
         <item itemvalue="Application.Execrise13" />
-        <item itemvalue="Application.Execrise14" />
+        <item itemvalue="Application.Execrise21" />
+        <item itemvalue="Application.Execrise20" />
+        <item itemvalue="Application.Execrise19" />
       </list>
     </recent_temporary>
   </component>
@@ -121,11 +161,19 @@
       <option name="project" value="LOCAL" />
       <updated>1712042388935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update third">
+      <created>1712496897451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712496897452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update twwice" />
-    <option name="LAST_COMMIT_MESSAGE" value="update twwice" />
+    <MESSAGE value="update third" />
+    <option name="LAST_COMMIT_MESSAGE" value="update third" />
   </component>
 </project>
