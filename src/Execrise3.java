@@ -18,7 +18,6 @@ public class Execrise3 {
 thuong = (float) a / b;
 //        System.out.printf("%f",thuong);
         System.out.printf("%.10f", thuong);
-//        System.out.println("Thuong la: " + thuong);
 
     }
 }
